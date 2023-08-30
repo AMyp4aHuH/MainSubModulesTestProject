@@ -4,4 +4,4 @@
 	branch = main
 [submodule "SecondSubModulesTestProject"]
 	path = SecondSubModulesTestProject
-	url = ../SecondSubModulesTestProject.git
+	url = https://github.com/AMyp4aHuH/SecondSubModulesTestProject.git
