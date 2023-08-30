@@ -1,0 +1,4 @@
+[submodule "FirstSubModulesTestProject"]
+	path = FirstSubModulesTestProject
+	url = https://github.com/AMyp4aHuH/FirstSubModulesTestProject.git
+	branch = main
