@@ -2,3 +2,6 @@
 	path = FirstSubModulesTestProject
 	url = https://github.com/AMyp4aHuH/FirstSubModulesTestProject.git
 	branch = main
+[submodule "SecondSubModulesTestProject"]
+	path = SecondSubModulesTestProject
+	url = ../SecondSubModulesTestProject.git
